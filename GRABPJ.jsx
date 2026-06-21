@@ -1,7 +1,6 @@
-import React, { useState } from "react";
 import {
   Search, ScanLine, User, UtensilsCrossed, Car, ShoppingBasket, Package,
-  Bike, CalendarClock, ListChecks, Grid3x3, Home, Wallet, Clock,
+  Bike, CalendarClock, ListChecks, LayoutGrid, Home, Wallet, Clock,
   MessageSquare, ChevronRight, MapPin, Star, Percent, Gamepad2, Gift
 } from "lucide-react";
 
